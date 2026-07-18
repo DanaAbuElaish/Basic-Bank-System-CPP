@@ -1,0 +1,16 @@
+# Visual Studio
+x64/
+x86/
+Debug/
+Release/
+.vs/
+*.vcxproj.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# Data files (contain sensitive/personal data - never upload)
+Clients5656.txt
+Users.txt
